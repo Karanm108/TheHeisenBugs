@@ -34,9 +34,9 @@ Team name: The HeisenBugs
 
 Members:
 
-- Karan Moodley - [Member email]
+- Karan Moodley - km1539@live.mdx.ac.uk
 - Djakaridja Traore - dt587@live.mdx.ac.uk
-- Karim Khaled - [Member email]
+- Karim Khaled - km1454@live.mdx.ac.uk
 
 #### Solution description
 
